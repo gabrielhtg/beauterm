@@ -27,7 +27,7 @@ Pertama-tama, kalian harus memiliki zsh untuk menggantikan bash. Dalam kasus ini
     git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
    ```
-9. Edit `.zshrc` kalian untuk menggunakan fitur-fitur yang sudah kita download sebelumnya. Atau kalian bisa langsung [download .zshrc disini](.zshrc). Simpan file itu di folder home.
+9. Edit `.zshrc` kalian untuk menggunakan fitur-fitur yang sudah kita download sebelumnya. Atau kalian bisa langsung copy atau download .zshrc [disini](.zshrc). Simpan file itu di folder home.
 10. Ganti font terminal kalian menggunakan nerd font yang sudah di install sebelumnya.
 11. Restart terminal kalian.
 12. Setelah itu akan muncul seperti berikut.
