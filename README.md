@@ -31,7 +31,7 @@ Pertama-tama, kalian harus memiliki zsh untuk menggantikan bash. Dalam kasus ini
 10. Ganti font terminal kalian menggunakan nerd font yang sudah di install sebelumnya.
 11. Restart terminal kalian.
 12. Setelah itu akan muncul seperti berikut.
-    [p10k](Screenshot%20from%202022-04-15%2013-19-06.png) <br>
+    ![p10k](Screenshot%20from%202022-04-15%2013-19-06.png) <br>
     Silakan kalian configure sesuai selera kalian.
 13. Apabila tampilan seperti di langkah 12 tidak muncul, ketikkan `p10k configure`. Nanti akan muncul tampilan configurasinya.
 
